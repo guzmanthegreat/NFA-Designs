@@ -6,7 +6,7 @@
 
 - Provides images of each design in a markdown (.md) file along with test strings.
 
-## Index
+## Let Σ = { 0, 1 }
 
 ### Problem 11
 
