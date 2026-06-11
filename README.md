@@ -5,3 +5,25 @@
 - Provides a set of test strings saved in a text (.txt) file following JFLAP formatting requirements.
 
 - Provides images of each design in a markdown (.md) file along with test strings.
+
+## Index
+
+### Problem 11
+
+Design a NFA <strong>M</strong> such that <strong>L(M) = {string s| the 2nd to last bit is 1}</strong>
+
+### Problem 12
+
+Design a NFA <strong>M</strong> such that <strong>L(M) = {string s | s contains exactly 3 1's}</strong>
+
+### Problem 13
+
+Design a NFA <strong>M</strong> such that <strong>L(M) = {string s | s contains at least 2 1's}</strong>
+
+### Problem 14
+
+Design a NFA <strong>M</strong> such that <strong>L(M) = {string s| length of s is even}</strong>
+
+### Problem 15:
+
+Design a NFA <strong>M</strong> such that <strong>L(M) = {string s| s has even number of 1's}</strong>
