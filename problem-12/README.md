@@ -2,7 +2,7 @@
 
 ### Problem 12:
 
-Design a NFA M such that L(M) = {string s | s contains exactly 3 1's}
+Design a NFA M such that L(M) = {string <i>s</i> | <i>s</i> contains exactly 3 1's}
 
 ### Design:
 

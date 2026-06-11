@@ -2,7 +2,7 @@
 
 ### Problem 11:
 
-Design a NFA M such that L(M) = {string s| the 2nd to last bit is 1 }
+Design a NFA M such that L(M) = {string <i>s</i> | The second to last bit is 1}
 
 ### Design:
 

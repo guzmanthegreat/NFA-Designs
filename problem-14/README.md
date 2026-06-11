@@ -2,7 +2,7 @@
 
 ### Problem 14:
 
-Design a NFA M such that L(M) = {string s| length of s is even}
+Design a NFA M such that L(M) = {string <i>s</i> | length of <i>s</i> is even}
 
 ### Design:
 

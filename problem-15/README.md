@@ -2,7 +2,7 @@
 
 ### Problem 15:
 
-Design a NFA M such that L(M) = {string s| s has even number of 1's }
+Design a NFA M such that L(M) = {string <i>s</i> | <i>s</i> has even number of 1's }
 
 ### Design:
 

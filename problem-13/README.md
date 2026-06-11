@@ -2,7 +2,7 @@
 
 ### Problem 13: <br>
 
-Design a NFA M such that L(M) = {string s | s contains at least 2 1's }
+Design a NFA M such that L(M) = {string <i>s</i> | <i>s</i> contains at least 2 1's }
 
 ### Design:
 
